@@ -6,14 +6,14 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Esteban Beltran
+  name:           JSMemories
   avatar:         avatar.jpg
-  bio:            "Web Ui Developer"
-  email:          sergies@gmail.com
+  bio:            ""
+  email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        academo
-  facebook:       academo
-  github:         academo
+  twitter:        
+  facebook:       
+  github:         
   stackexchange:  
   linkedin:       
   instagram:      
@@ -22,8 +22,25 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   
 
+
+authors:
+  academo:
+    display_name: Esteban Beltran
+    gravatar: 7e4e7591a5999d652b5f1f52b89bc4c7
+    email: sergies@gmail.com
+    web: http://academo.co
+    twitter: academo
+    github: academo
+  asgaroth:
+    display_name: Alex Urbano
+    gravatar: 76dbcc74021b8039f14c7b583978b56d
+    email: 
+    web: 
+    twitter: asgarothbelem
+    github: asgarothbelem
+
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-43818655-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -31,11 +48,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

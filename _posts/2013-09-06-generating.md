@@ -2,6 +2,7 @@
 layout: post
 title: INTEGRATING GRUNT AND LESS
 description: "Integrating Grunt tasks runner with Less compiler"
+author: academo
 modified: 2013-09-06
 tags: [grunt, less]
 
